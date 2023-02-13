@@ -1,0 +1,10 @@
+Graph Nodes:
+Personal information (hidden);Personal information (visible);Treatment;Time to event
+
+Graph Edges:
+1. Personal information (hidden) o-o Personal information (visible)
+2. Personal information (hidden) --> Time to event
+3. Personal information (hidden) --> Treatment
+4. Personal information (visible) o-> Treatment
+5. Treatment --> Time to event
+
